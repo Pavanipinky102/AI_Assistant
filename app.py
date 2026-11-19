@@ -61,3 +61,4 @@ elif mode =="Generate code Questions" :
 else:
     question = st.text_area("Enter Interview Question Here")
     answer = st.text_area("Enter Your Answer", height=160)
+    
