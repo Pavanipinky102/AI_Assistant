@@ -9,7 +9,7 @@ st.set_page_config(
 # Application title
 st.title("AI Interview")
 st.caption("Practice and Prepare for your placement")
-st.caption("launched by akshaya")
+st.caption("launched by pavani")
 
 # Import Groq safely
 try:
